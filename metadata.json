@@ -1,0 +1,6 @@
+{
+  "name": "CollectFlow",
+  "description": "Integrated Business Accounting and Receivables Management System for Indian SMEs. One Platform. Complete Business Control.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
